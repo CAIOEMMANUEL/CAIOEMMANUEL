@@ -1,16 +1,22 @@
-## Hi there 👋
+## Apresentção
+ - Estudante de Ciência da Computação
+ - Buscando aprendizado e aprimoramento na área
+ - Atualmente aprofundando meus conhecimentos em HTML e CSS
+  
+## Tecnoligias e Ferramentas 
 
-<!--
-**CAIOEMMANUEL/CAIOEMMANUEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-Here are some ideas to get you started:
+## Meu Roadmap (próximo 6 meses)
+- [x] Criar um Readme de perfil
+- [ ] Cria portfolio
+- [ ] Melhorar meu Inglês
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em Destaques
+| Projeto | Descrição | Tecnologia Principal |
+| --- | ---| ---|
+| [SINTAXE MARKDOWN](https://github.com/CAIOEMMANUEL/AULA-2---GITHUB.git) |Meu primeiro projeto no Github|![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+
+## Contato  
+- [LinkedIn](https://www.linkedin.com/in/caio-cardoso-644858383/)
+- caio_emmanuellima@hotmail.com
